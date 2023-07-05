@@ -21,3 +21,10 @@
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
 </p>
 
+
+<h3 align="center"> 🧸 Me 🧸 </h3>
+<p align="center">
+  <a href="https://www.instagram.com/_min_tori_/"‎˃̵ࡇ˂̵img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_min_tori_/"/></a>&nbsp
+  <a href="mailto:rlaalst22@gmail.com"‎˃̵ࡇ˂̵img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlaalst22@gmail.com"/></a>
+</p>
+<br>
