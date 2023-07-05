@@ -27,4 +27,3 @@
   <a href="https://www.instagram.com/minnchew/"‎˃̵ࡇ˂̵img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minnchew/"/></a>&nbsp
   <a href="mailto:minnchew@gmail.com"‎˃̵ࡇ˂̵img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=minnchew@gmail.com"/></a>
 </p>
-<br>
