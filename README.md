@@ -18,7 +18,7 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://www.instagram.com/minnchew/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/minnchew/"/></a>&nbsp
-  <a href="mailto:minnchew@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=minnchew@gmail.com"/></a>
+  <a href="https://www.instagram.com/_min_tori_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_min_tori_/"/></a>&nbsp
+  <a href="mailto:rlaalst22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlaalst22@gmail.com"/></a>
 </p>
 <br>
