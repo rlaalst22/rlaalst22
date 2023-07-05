@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋</h1> 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=minssu&fontSize=70&animation=twinkling"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=minssu&fontSize=70&animation=twinkling"/>
+<div />
+
 <p align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
