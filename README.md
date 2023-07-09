@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaalst22)](https://github.com/rlaalst22/github-readme-stats)
 <br>
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
